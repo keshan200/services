@@ -1,0 +1,9 @@
+[submodule "SmartLogix-Order-Service"]
+	path = SmartLogix-Order-Service
+	url = https://github.com/keshan200/SmartLogix-Order-Service.git
+[submodule "SmartLogix-Document-Proof-Service"]
+	path = SmartLogix-Document-Proof-Service
+	url = https://github.com/keshan200/SmartLogix-Document-Proof-Service.git
+[submodule "SmartLogix-Tracking-Service"]
+	path = SmartLogix-Tracking-Service
+	url = https://github.com/keshan200/SmartLogix-Tracking-Service.git
